@@ -1,0 +1,14 @@
+.admin_nav{
+    background-color: black;
+}
+.admin_nav a{
+    color: white;
+    padding: 10px;
+
+}
+.admin_nav a:hover{
+    color: red;
+}
+.admin_nav li{
+    padding-left: 30px;
+}

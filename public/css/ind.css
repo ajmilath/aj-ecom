@@ -1,0 +1,15 @@
+.container1{
+    height: 400px;
+    width: 800px;
+    /* background-color: red; */
+}
+.buttn{
+    position: relative;
+    top: 400px;
+}
+.b1{
+    left: 0px;
+}
+.b2{
+    left: 500px;
+}
